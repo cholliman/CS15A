@@ -1,2 +1,2 @@
 # CS15A
-helpful materials for CS 15 A students
+helpful materials for CS 15A students
